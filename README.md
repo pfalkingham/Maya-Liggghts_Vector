@@ -9,3 +9,6 @@ This version uses proximal and distal end points of segments to calculate rotati
 Exported translation/rotation from maya using XROMM toolkit.
 
 See instructions guide for usage.
+
+
+**No files here - this has been fully superceded by https://github.com/pfalkingham/MayaToLiggghts **
