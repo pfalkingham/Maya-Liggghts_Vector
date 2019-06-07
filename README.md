@@ -11,4 +11,4 @@ Exported translation/rotation from maya using XROMM toolkit.
 See instructions guide for usage.
 
 
-**No files here - this has been fully superceded by https://github.com/pfalkingham/MayaToLiggghts **
+**This has been fully superceded by https://github.com/pfalkingham/MayaToLiggghts **
